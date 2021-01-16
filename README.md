@@ -1,0 +1,2 @@
+# Peer-to-peer-shares-trading
+In this system an organizations can sell their shares to the customers and at the same time the customes can bid or sell to their peers. The project has graphs to show the prediction of demand and supply together with the organization growth curves. The projects that the organization is planning to undertake and the already existing will be used as the major indicators for growth. The plots will be real-time and the trading will also be taking place without time limits. external data may be used to show growth prospects of the organization.
